@@ -61,6 +61,8 @@ None
 ## 4. prob_2108
 
 ```python
+# https://3orento.tistory.com/73 를 참고하였음
+
 import sys
 from collections import Counter
 

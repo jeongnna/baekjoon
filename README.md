@@ -1,4 +1,4 @@
-# Baekjoon-python
+# BOJ-python
 
 [백준 온라인 저지](https://www.acmicpc.net/)의 [단계별로 풀어보기](https://www.acmicpc.net/step) 파이썬 솔루션입니다.
 
